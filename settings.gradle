@@ -1,0 +1,3 @@
+include ':CustomToastLib'
+include ':app'
+rootProject.name = "CustomToast"
